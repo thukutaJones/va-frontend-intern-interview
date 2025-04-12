@@ -1,0 +1,1 @@
+console.log("https://staging.valuationsafrica.mw/api/v2/properties?page=2"?.split("?")[1]?.split("=")[1]) 
